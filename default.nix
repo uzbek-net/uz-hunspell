@@ -41,8 +41,8 @@ in
     src = fetchFromGitHub {
       owner = "uzbek-net";
       repo = "uz-hunspell";
-      rev = version;
-      hash = "sha256-EUYhnUWUy45AYGH+HoxaFFCBVnotsIm4GlpMBgnHxdo=";
+      tag = version;
+      hash = "sha256-l3Ll+mKjAndEcBX6jxTVEyHkMzuQpPDj+2kY5qtwzh8=";
     };
 
     shortName = "uz-uz";
