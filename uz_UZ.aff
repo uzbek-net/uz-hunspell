@@ -5258,7 +5258,7 @@ SFX W 0 ngacha/IJKLMN .
 SFX W 0 ningdek/IJKLMN .
 SFX W 0 yam/IJKLMN .
 
-SFX X Y 13670
+SFX X Y 13672
 SFX X 0 sin .
 SFX X 0 ki .
 SFX X 0 maki .
@@ -5287,6 +5287,8 @@ SFX X 0 diki .
 SFX X 0 di-yu .
 SFX X 0 dilarki .
 SFX X 0 dilar-ku .
+SFX X 0 ng [aeiou]
+SFX X 0 ing [^aeiou]
 SFX X 0 tib [aeiou]
 SFX X 0 tibgina [aeiou]
 SFX X 0 tib-ku [aeiou]
